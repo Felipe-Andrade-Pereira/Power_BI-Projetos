@@ -1,23 +1,23 @@
 ? Dashboard - Recursos Humanos
-RelatÛrio desenvolvido no Power BI para acompanhamento de funcion·rios ativos em uma determinada empresa. A soluÁ„o permite a an·lise de informaÁıes estratÈgicas essenciais para gestores e tomadores de decis„o.
+Relat√≥rio desenvolvido no Power BI para acompanhamento de funcion√°rios ativos em uma determinada empresa. A solu√ß√£o permite a an√°lise de informa√ß√µes estrat√©gicas essenciais para gestores e tomadores de decis√£o.
 
 ? Objetivo
-Fornecer uma vis„o consolidada e estratÈgica da forÁa de trabalho da empresa, permitindo an·lises de composiÁ„o salarial, distribuiÁ„o de custos por ·rea e cargo, com inclus„o de encargos e impostos trabalhistas.
+Fornecer uma vis√£o consolidada e estrat√©gica da for√ßa de trabalho da empresa, permitindo an√°lises de composi√ß√£o salarial, distribui√ß√£o de custos por √°rea e cargo, com inclus√£o de encargos e impostos trabalhistas.
 
 ? Indicadores Apresentados
-    ï ComposiÁ„o salarial dos colaboradores (incluindo impostos)
-    ï Custo total por cargo (sal·rio + encargos)
-    ï DistribuiÁ„o de sal·rios por ·rea, considerando encargos
-    ï Acompanhamento de funcion·rios ativos
+    ‚Ä¢ Composi√ß√£o salarial dos colaboradores (incluindo impostos)
+    ‚Ä¢ Custo total por cargo (sal√°rio + encargos)
+    ‚Ä¢ Distribui√ß√£o de sal√°rios por √°rea, considerando encargos
+    ‚Ä¢ Acompanhamento de funcion√°rios ativos
 
 ?? Fonte de Dados
 Origem	Formato
-Base de funcion·rios	Excel / CSV
+Base de funcion√°rios	Excel / CSV
 
 ?? Recursos Utilizados
-    ï Power BI Desktop ó construÁ„o do relatÛrio
-    ï DAX ó criaÁ„o de medidas e c·lculos personalizados
-    ï Modelagem de dados ó relacionamento entre tabelas
+    ‚Ä¢ Power BI Desktop ‚Äî constru√ß√£o do relat√≥rio
+    ‚Ä¢ DAX ‚Äî cria√ß√£o de medidas e c√°lculos personalizados
+    ‚Ä¢ Modelagem de dados ‚Äî relacionamento entre tabelas
 
 ? Estrutura do Projeto
 Dashboard-Recursos-Humanos/
@@ -25,7 +25,7 @@ Dashboard-Recursos-Humanos/
   ??? README.md
 
 
-?? Preview
+?? Preview 
 
 
 
